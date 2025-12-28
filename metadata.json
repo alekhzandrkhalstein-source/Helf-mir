@@ -1,0 +1,5 @@
+{
+  "name": "Football Pong",
+  "description": "A simple and fun pong game with a football (soccer) theme. Control your paddle with the mouse and try to score against the AI opponent. The first to 7 points wins!",
+  "requestFramePermissions": []
+}
